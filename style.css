@@ -1,0 +1,39 @@
+body{background-color: rgb(172, 122, 122);
+  background-image: url(bg.jpg); height:fit-content;  background-size: cover; 
+  text-align: center; 
+  padding: 10%;
+  background-repeat: no-repeat;
+  width: auto;)
+  background-position: 5pc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-language-override: initial;
+  font-variant-ligatures: normal;
+  padding: 20%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-left: 15%;
+  color: navy;
+  letter-spacing: 1.5px;
+  shape-image-threshold: initial; }
+  h1{font-style: normal;
+  font-stretch: wider;
+  color: red;
+  letter-spacing: 1.5mm;
+  font-size: 2pc;}
+  .box-1 {
+      flex: 1;
+      order: 1;
+    }
+    .box-2 {
+      flex: 1;
+      order: 2;
+    }
+  .intro {
+      color: black;
+      background-color: rgb(255, 254, 254, 0.3);
+      padding: 5%;
+      padding-top: 1%;
+      padding-bottom: 1%;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    }
